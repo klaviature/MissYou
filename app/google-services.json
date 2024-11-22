@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881459084400",
+    "project_id": "missyou-21499",
+    "storage_bucket": "missyou-21499.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881459084400:android:18d78969d4de27eed0c8b5",
+        "android_client_info": {
+          "package_name": "com.fomin.missyou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-y0zu72XiQBkxODtRa2rJRYQXwJn-eXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
