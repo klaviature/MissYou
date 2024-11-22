@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MissYou</string>
+    <string name="registration_label">Регистрация</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Пароль</string>
+    <string name="sign_in_label">Вход</string>
+    <string name="sign_in_text">Войти</string>
 </resources>
